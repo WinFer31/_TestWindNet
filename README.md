@@ -1,2 +1,2 @@
 # _TestWindNet
-SU SRS project for short-term wind power forecasting.
+SU SRS project for wind power forecasting.
